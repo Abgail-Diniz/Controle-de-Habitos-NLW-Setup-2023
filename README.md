@@ -1,4 +1,4 @@
-<h1 align="center"> Controle de Habitos </h1>
+<h1 align="center"> Controle de Habitos  </h1>
 <p align=""center>
   NLW é um evento que ocorre em uma semana  que tem muito conteúdo é exclusivo e gratuito.<br> 
   Promovido pela Rocketseat para ensino de tecnologias Web.
@@ -21,7 +21,7 @@ Esse projeto foi desenvolvido com as seguintes tecnologias:
 ## 💻 Projeto
 O Habits é um site para ajudar a administrar os hábitos no dia-a-dia.
 
-- [Visite o projeto online](https://maykbrito.github.io/nlw-setup)
+- [Visite o projeto online](https://abgail-diniz.github.io/Controle-de-Habitos-NLW-Setup-2023/)
 
 <br>
 
