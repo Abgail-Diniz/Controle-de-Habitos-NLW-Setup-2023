@@ -1,22 +1,13 @@
-<h1 align="center"> Controle de Habitos  </h1>
+<h1 align="center">⏳ Controle de Habitos  </h1>
 <p align=""center>
-  NLW é um evento que ocorre em uma semana  que tem muito conteúdo é exclusivo e gratuito.<br> 
-  Promovido pela Rocketseat para ensino de tecnologias Web.
+  O projeto foi desenvolvido no NLW que  é um evento que ocorre em uma semana  onde tem muito conteúdo é exclusivo e gratuito.<br> 
+  É promovido pela Rocketseat para ensino de tecnologias Web.
 </p>
-<p align="center">
-  <img alt="Projeto de controle de Habitos" src=".github/preview.jpeg" width="100%">
-
 <br>
 
-## 🚀 Tecnologias
+<img alt="Projeto de controle de Habitos" src=".github/preview.jpeg" width="100%">
 
-Esse projeto foi desenvolvido com as seguintes tecnologias:
-
-- HTML e CSS
-- JavaScript
-- Git e Github
-- Figma
-
+<br>
 
 ## 💻 Projeto
 O Habits é um site para ajudar a administrar os hábitos no dia-a-dia.
@@ -25,17 +16,17 @@ O Habits é um site para ajudar a administrar os hábitos no dia-a-dia.
 
 <br>
 
-## 🔖 Layout
+## 🚀 Tecnologias
 
-Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
+Esse projeto foi desenvolvido com as seguintes tecnologias:
+
+- HTML 
+- CSS
+- JavaScript
+- Figma
 
 <br>
 
-## :memo: Licença
+## 🔖 Layout
 
-Esse projeto está sob a licença MIT.
-
----
-
-Feito com ♥ by Rocketseat :wave: [Participe da comunidade!](https://discord.gg/rocketseat)
-
+Você pode visualizar o layout do projeto através [DESSE LINK](https://www.figma.com/community/file/1195327109778210238). É necessário ter conta no [Figma](https://figma.com) para acessá-lo.
